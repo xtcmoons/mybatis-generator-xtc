@@ -13,6 +13,12 @@ import org.mybatis.generator.internal.DefaultShellCallback;
  * @Date 12/23/20 7:05 PM
  */
 public class Generator {
+    /**
+     * 相关代码参考官方代码
+     * http://mybatis.org/generator/running/runningWithJava.html
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         List<String> warnings = new ArrayList<String>();
         boolean overwrite = true;
