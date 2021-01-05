@@ -1,4 +1,4 @@
-package com.xtc.mall;
+package com.xtc;
 
 import java.io.File;
 import java.util.ArrayList;
